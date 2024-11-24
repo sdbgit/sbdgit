@@ -4,20 +4,38 @@ Hi there, I'm Sadanand 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ## About Me
-I'm a passionate Database Administrator with over 3 years of experience in designing, implementing, and maintaining robust database systems. I thrive on solving complex data-related challenges and optimizing performance.
+I'm a passionate Database Administrator with over 12 years of experience in designing, implementing, and maintaining robust database systems. I thrive on solving complex data-related challenges and optimizing performance.
 
-- 🔭 I’m currently working on: [Project Name](project-url)
+Database Design & Implementation: Design and implement complex database architectures for various applications, ensuring scalability and reliability.
+
+Performance Tuning: Monitor and optimize database performance using tools like indexing, query optimization, and memory management to ensure efficient data retrieval and storage.
+
+Security Management: Implement robust security measures including encryption, user access controls, and regular security audits to safeguard sensitive data.
+
+Disaster Recovery: Develop and maintain disaster recovery plans and backup strategies to ensure data integrity and availability in case of system failures.
+
+Data Migration & Integration: Lead data migration projects and integrate diverse data sources into unified database systems.
+
+Automation & Scripting: Develop and implement automation scripts to streamline routine database maintenance tasks and reduce manual intervention.
+
+Troubleshooting & Support: Provide expert-level troubleshooting and support for database-related issues, minimizing downtime and ensuring quick resolution.
+
+Documentation & Reporting: Maintain comprehensive documentation of database configurations, changes, and procedures. Generate regular reports on database performance and health.
+
+Team Leadership & Training: Mentor junior DBAs and provide training to IT staff on best practices in database management.
+
+- 🔭 I’m currently working on: [FIS GLOBAL PRIVATE LIMITED] (ORACLE,SQL SERVER,AWS,AZURE)
 - 🌱 I’m currently learning: Advanced SQL, Python, and Cloud Computing
-- 👯 I’m looking to collaborate on: Open-source database projects
-- 💬 Ask me about: Databases, SQL, Performance Tuning
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love hiking and exploring new trails!
+- 👯 I’m looking to collaborate on: RDS, Snapshot Restoration S3, Lambda Function DR DRILL ACTIVITY across region. 
+- 💬 Ask me about: Databases, SQL, Performance Tuning , Database Design & Implementation, Data Migration & Integration,Disaster Recovery
+- 📫 How to reach me: [sdbagrow@gmail.com]
+- ⚡ Fun fact: I love watch or discuss about the  new trends and like to visit electonics device store !
 
 ## Skills
-- **Databases**: SQL Server, MySQL, PostgreSQL
+- **Databases**: ORACLE 10g,11g,12c, SQL Server, PostgreSQL (L1)
 - **Languages**: SQL, Python
-- **Tools**: SQL Management Studio, pgAdmin, Visual Studio Code
-- **Other**: Performance Tuning, Data Migration, Backup & Recovery
+- **Tools**: SQL Management Studio, Service Now, Visual Studio Code, Winscp, Lansweeper, cloudview 
+- **Other**: Data Migration, Backup & Recovery , Disaster Recovery
 
 ## GitHub Stats
 ![Sadanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
