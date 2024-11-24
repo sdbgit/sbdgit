@@ -52,6 +52,7 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 - [Project 3]: Restoration with S3 on AWS , Backup configure with s3 on s3 bucket . WebLogic Admin ,auto start DB and weblogic services after auto start non production database in non-business huur, cost optimization .
 
  ## Screenshot 
+ ![Screenshot](https://drive.google.com/file/d/1BiQF3xib8xp3mIs-FVSdxJQc7Q9wZy7s/view?usp=sharing)
 ![App Screenshot](https://drive.google.com/file/d/1BiQF3xib8xp3mIs-FVSdxJQc7Q9wZy7s/view?usp=sharing)
 ![Screenshot](https://drive.google.com/file/d/1BiQF3xib8xp3mIs-FVSdxJQc7Q9wZy7s/view?usp=sharing)
 
