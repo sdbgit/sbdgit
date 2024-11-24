@@ -42,7 +42,7 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![ENGLISH](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](ENGLISH)
 
 ## Connect with Me
 [![LinkedIn] (https://www.linkedin.com/in/sadanand-bhujade-15071515b/)
