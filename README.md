@@ -38,15 +38,10 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 - **Other**: Data Migration, Backup & Recovery , Disaster Recovery
 
 ## GitHub Stats
-![Sadanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Sadanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdbgit&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdbgit&layout=compact&theme=radical)
-
-
-
 
 ## Connect with Me
 [![LinkedIn] (https://www.linkedin.com/in/sadanand-bhujade-15071515b/)
