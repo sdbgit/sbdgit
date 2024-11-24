@@ -44,8 +44,7 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-username/)](https://twitter.com/your-twitter-username/)
+[![LinkedIn](www.linkedin.com/in/sadanand-bhujade-15071515b)
 
 ## Projects
 - [Project 1](https://github.com/your-github-username/project-1): Short description of the project.
