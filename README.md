@@ -47,6 +47,6 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 [![LinkedIn] (https://www.linkedin.com/in/sadanand-bhujade-15071515b/)
 
 ## Projects
-- [Project 1](https://github.com/your-github-username/project-1): Short description of the project.
-- [Project 2](https://github.com/your-github-username/project-2): Short description of the project.
-- [Project 3](https://github.com/your-github-username/project-3): Short description of the project.
+- [Project 1]: Database installation , Backup & Recovery with Softenger private Limited.
+- [Project 2]: Database Disaster Recovery , DR DRILL, Datagurad configuration 
+- [Project 3]: Restoration with S3 on AWS , Backup configure with s3 on s3 bucket . WebLogic Admin ,auto start DB and weblogic services after auto start non production database in non-business huur, cost optimization . 
