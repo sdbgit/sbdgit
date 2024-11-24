@@ -51,6 +51,6 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 - [Project 2]: Database Disaster Recovery , DR DRILL, Datagurad configuration 
 - [Project 3]: Restoration with S3 on AWS , Backup configure with s3 on s3 bucket . WebLogic Admin ,auto start DB and weblogic services after auto start non production database in non-business huur, cost optimization .
 
- ## Screenshot ![App Screenshot](https://github.com/sadanand/my-project/blob/main/screenshot.png)
+ ## Screenshot 
 
 ![App Screenshot](https://drive.google.com/file/d/1BiQF3xib8xp3mIs-FVSdxJQc7Q9wZy7s/view?usp=drive_link)
