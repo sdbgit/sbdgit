@@ -49,4 +49,7 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 ## Projects
 - [Project 1]: Database installation , Backup & Recovery with Softenger private Limited.
 - [Project 2]: Database Disaster Recovery , DR DRILL, Datagurad configuration 
-- [Project 3]: Restoration with S3 on AWS , Backup configure with s3 on s3 bucket . WebLogic Admin ,auto start DB and weblogic services after auto start non production database in non-business huur, cost optimization . 
+- [Project 3]: Restoration with S3 on AWS , Backup configure with s3 on s3 bucket . WebLogic Admin ,auto start DB and weblogic services after auto start non production database in non-business huur, cost optimization .
+
+ ## Screenshot ![App Screenshot](https://github.com/sadanand/my-project/blob/main/screenshot.png)
+![App Screenshot](https://github.com/sadanand/C:\Users\Admin\Downloads\Linkdin_Exp_Snap.png)
