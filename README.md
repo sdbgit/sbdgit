@@ -53,4 +53,4 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 
  ## Screenshot ![App Screenshot](https://github.com/sadanand/my-project/blob/main/screenshot.png)
 
-![App Screenshot](https://github.com/sadanand/my-project/blob/main/sLinkdin_Exp_Snap.png)
+![App Screenshot](https://github.com/sadanand/my-project/blob/main/Linkdin_Exp_Snap.png)
