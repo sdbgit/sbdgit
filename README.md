@@ -38,10 +38,10 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 
 Looking for below Role - Willing to work work as Technically and manage team as maanager so dual role i can perform 
 
--Database Team Lead
--Database/Infrastructure Manager
--Technical Project Manager
--Engineering Manager - Data Platforms
+- Database Team Lead
+- Database/Infrastructure Manager
+- Technical Project Manager
+- Engineering Manager - Data Platforms
 
 - 🔭 I’m currently working on: [FIS GLOBAL PRIVATE LIMITED] (ORACLE,SQL SERVER,AWS,AZURE)
 - 🌱 I’m currently learning: Advanced SQL, Python, and Cloud Computing
