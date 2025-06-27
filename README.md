@@ -36,7 +36,7 @@ Team Leadership & Training: Mentor junior DBAs and provide training to IT staff 
 - Training: Share knowledge and stay updated on new tech.
 - Cross-team collaboration: Work closely with DevOps, application teams, and business stakeholders
 
-Looking for below Role - Willing to work work as Technically and manage team as maanager so dual role i can perform 
+Looking for below Role - Willing to work as Technically and manage team as maanager so dual role i can perform 
 
 - Database Team Lead
 - Database/Infrastructure Manager
