@@ -4,17 +4,13 @@ Hi there, I'm Sadanand 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ## About Me
-I'm a passionate Database Administrator with over 12 years of experience in designing, implementing, and maintaining robust database systems. I thrive on solving complex data-related challenges and optimizing performance.
+I'm a passionate Database Administrator with over 13 years of experience in designing, implementing, and maintaining robust database systems. I thrive on solving complex data-related challenges and optimizing performance.
 
 Database Design & Implementation: Design and implement complex database architectures for various applications, ensuring scalability and reliability.
 
 Performance Tuning: Monitor and optimize database performance using tools like indexing, query optimization, and memory management to ensure efficient data retrieval and storage.
 
-Security Management: Implement robust security measures including encryption, user access controls, and regular security audits to safeguard sensitive data.
-
 Disaster Recovery: Develop and maintain disaster recovery plans and backup strategies to ensure data integrity and availability in case of system failures.
-
-Data Migration & Integration: Lead data migration projects and integrate diverse data sources into unified database systems.
 
 Automation & Scripting: Develop and implement automation scripts to streamline routine database maintenance tasks and reduce manual intervention.
 
@@ -23,6 +19,28 @@ Troubleshooting & Support: Provide expert-level troubleshooting and support for 
 Documentation & Reporting: Maintain comprehensive documentation of database configurations, changes, and procedures. Generate regular reports on database performance and health.
 
 Team Leadership & Training: Mentor junior DBAs and provide training to IT staff on best practices in database management.
+
+- Monitoring: Track database performance, uptime, and logs.
+- Backups & Recovery: Schedule, test, and manage backups.
+- Security: Manage user access, roles, and audit logs.
+- Performance Tuning: Optimize queries, indexes, and configurations.
+- Troubleshooting: Resolve errors, slowdowns, and system alerts.
+- Database Design: Collaborate on schema and architecture.
+- Schema Changes: Apply updates and migrations.
+- Capacity Planning: Forecast growth and plan resources.
+- Disaster Recovery: Implement and test failover strategies.
+- Automation: Script routine tasks (e.g., PowerShell, SQL jobs).
+- Patching: Apply updates and security fixes.
+- Teamwork: Work with developers, sysadmins, and analysts.
+- Documentation: Maintain configs, procedures, and change logs.
+- Training: Share knowledge and stay updated on new tech.
+- Cross-team collaboration: Work closely with DevOps, application teams, and business stakeholders
+
+Looking for below Role - Willing to work work as Technically and manage team as maanager so dual role i can perform 
+Database Team Lead
+Database/Infrastructure Manager
+Technical Project Manager
+Engineering Manager - Data Platforms
 
 - 🔭 I’m currently working on: [FIS GLOBAL PRIVATE LIMITED] (ORACLE,SQL SERVER,AWS,AZURE)
 - 🌱 I’m currently learning: Advanced SQL, Python, and Cloud Computing
